@@ -1,0 +1,15 @@
+{
+  "name": "provisioning-onbo-cypress",
+  "version": "1.0.0",
+  "description": "javascriptPractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "praveen crimsonnpm insta",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
+}
